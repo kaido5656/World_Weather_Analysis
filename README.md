@@ -4,3 +4,5 @@
   1. Retreve weather data from cities using gmaps
   2. Create a customer travel destinations map based on temperature preferences 
   3. Create a travel itinerary map based on 4 cities chosen by a user.
+### Example 
+![WeatherPy_map_changes_markers](vacation_itinerary/WeatherPy_map_changes_markers.png)
